@@ -16,8 +16,8 @@
       },
       "file": "harpsichords-fm-1.0.0.kfpack",
       "bytes": 74575360,
-      "sha256": "2e5dffca23f8c075d4d9552be2371d9d5bfaae252f5baeff35f99bb731c58b09",
-      "installedBytes": 376140638,
+      "sha256": "459c2773bbaa5db6a0bfeeb2a44016bcb20b4eaaac1ccdc189515319bea65eac",
+      "installedBytes": 376140662,
       "instruments": [
         {
           "id": "harpsichord-flemish",
@@ -102,7 +102,7 @@
       },
       "file": "concert-grand-full-1.0.0.kfpack",
       "bytes": 747680768,
-      "sha256": "1617d238086c2b2098ecab3ea4b6ac56fd82d037ea85d0945c9a26b9df8d600d",
+      "sha256": "603f88a0cad11b9731a963cae8e0ee870565034dddf44e59ab63934069bafb02",
       "installedBytes": 1307297224,
       "instruments": [
         {
@@ -130,8 +130,8 @@
       },
       "file": "concert-grand-1.0.0.kfpack",
       "bytes": 85072384,
-      "sha256": "c9bf1560ff24fc6937a3de7dce179370427ffa6b372ec271ededf7f27534c9b3",
-      "installedBytes": 517447336,
+      "sha256": "73b127ebfb0e180ed0f2c4ab6340750fec1e203bf01506ed58e4568f6158b86a",
+      "installedBytes": 517447372,
       "instruments": [
         {
           "id": "concert-grand",
@@ -200,8 +200,8 @@
       },
       "file": "studio-grand-1.0.0.kfpack",
       "bytes": 185075712,
-      "sha256": "57c14d35a888e6bd18fdaabf8008e6c83cbebcf700b9224ab359456d9f911849",
-      "installedBytes": 893137864,
+      "sha256": "de98246548da987eafe59d3942559ccc610f3e701bf1046f90d87ac1baea3f1b",
+      "installedBytes": 893137904,
       "instruments": [
         {
           "id": "studio-grand",
@@ -228,8 +228,8 @@
       },
       "file": "uprights-1.0.0.kfpack",
       "bytes": 104605184,
-      "sha256": "b8cf3d67850aa8dfe75fc92bac268430a177685ddf3a97c722fa01c728933599",
-      "installedBytes": 1084241980,
+      "sha256": "12b4265f92166403e9ebbab56d0460cb3c91fa71966a9c783ee93724b01eec3f",
+      "installedBytes": 1084242040,
       "instruments": [
         {
           "id": "k18-upright",
