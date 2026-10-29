@@ -1,93 +1,7 @@
 {
-  "version": 1,
+  "version": 2,
   "baseUrl": "https://github.com/alexward170/keyfall-sounds/releases/download/sounds-1/",
   "packs": [
-    {
-      "id": "harpsichords-fm",
-      "name": "Harpsichords and FM Pianos",
-      "version": "1.0.0",
-      "group": "Keys",
-      "about": "Six harpsichords (Flemish 8 and 4 foot, French, Italian, English and its lute stop) and three FM electric pianos sampled from a real Yamaha TX81Z.",
-      "licence": {
-        "name": "CC0 1.0",
-        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
-        "credit": "Harpsichords and TX81Z patches from the Versilian Community Sample Library (Versilian Studios, Sam Gossner)",
-        "text": "Creative Commons Legal Code\n\nCC0 1.0 Universal\n\n    CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE\n    LEGAL SERVICES. DISTRIBUTION OF THIS DOCUMENT DOES NOT CREATE AN\n    ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS\n    INFORMATION ON AN \"AS-IS\" BASIS. CREATIVE COMMONS MAKES NO WARRANTIES\n    REGARDING THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS\n    PROVIDED HEREUNDER, AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM\n    THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED\n    HEREUNDER.\n\nStatement of Purpose\n\nThe laws of most jurisdictions throughout the world automatically confer\nexclusive Copyright and Related Rights (defined below) upon the creator\nand subsequent owner(s) (each and all, an \"owner\") of an original work of\nauthorship and/or a database (each, a \"Work\").\n\nCertain owners wish to permanently relinquish those rights to a Work for\nthe purpose of contributing to a commons of creative, cultural and\nscientific works (\"Commons\") that the public can reliably and without fear\nof later claims of infringement build upon, modify, incorporate in other\nworks, reuse and redistribute as freely as possible in any form whatsoever\nand for any purposes, including without limitation commercial purposes.\nThese owners may contribute to the Commons to promote the ideal of a free\nculture and the further production of creative, cultural and scientific\nworks, or to gain reputation or greater distribution for their Work in\npart through the use and efforts of others.\n\nFor these and/or other purposes and motivations, and without any\nexpectation of additional consideration or compensation, the person\nassociating CC0 with a Work (the \"Affirmer\"), to the extent that he or she\nis an owner of Copyright and Related Rights in the Work, voluntarily\nelects to apply CC0 to the Work and publicly distribute the Work under its\nterms, with knowledge of his or her Copyright and Related Rights in the\nWork and the meaning and intended legal effect of CC0 on those rights.\n\n1. Copyright and Related Rights. A Work made available under CC0 may be\nprotected by copyright and related or neighboring rights (\"Copyright and\nRelated Rights\"). Copyright and Related Rights include, but are not\nlimited to, the following:\n\n  i. the right to reproduce, adapt, distribute, perform, display,\n     communicate, and translate a Work;\n ii. moral rights retained by the original author(s) and/or performer(s);\niii. publicity and privacy rights pertaining to a person's image or\n     likeness depicted in a Work;\n iv. rights protecting against unfair competition in regards to a Work,\n     subject to the limitations in paragraph 4(a), below;\n  v. rights protecting the extraction, dissemination, use and reuse of data\n     in a Work;\n vi. database rights (such as those arising under Directive 96/9/EC of the\n     European Parliament and of the Council of 11 March 1996 on the legal\n     protection of databases, and under any national implementation\n     thereof, including any amended or successor version of such\n     directive); and\nvii. other similar, equivalent or corresponding rights throughout the\n     world based on applicable law or treaty, and any national\n     implementations thereof.\n\n2. Waiver. To the greatest extent permitted by, but not in contravention\nof, applicable law, Affirmer hereby overtly, fully, permanently,\nirrevocably and unconditionally waives, abandons, and surrenders all of\nAffirmer's Copyright and Related Rights and associated claims and causes\nof action, whether now known or unknown (including existing as well as\nfuture claims and causes of action), in the Work (i) in all territories\nworldwide, (ii) for the maximum duration provided by applicable law or\ntreaty (including future time extensions), (iii) in any current or future\nmedium and for any number of copies, and (iv) for any purpose whatsoever,\nincluding without limitation commercial, advertising or promotional\npurposes (the \"Waiver\"). Affirmer makes the Waiver for the benefit of each\nmember of the public at large and to the detriment of Affirmer's heirs and\nsuccessors, fully intending that such Waiver shall not be subject to\nrevocation, rescission, cancellation, termination, or any other legal or\nequitable action to disrupt the quiet enjoyment of the Work by the public\nas contemplated by Affirmer's express Statement of Purpose.\n\n3. Public License Fallback. Should any part of the Waiver for any reason\nbe judged legally invalid or ineffective under applicable law, then the\nWaiver shall be preserved to the maximum extent permitted taking into\naccount Affirmer's express Statement of Purpose. In addition, to the\nextent the Waiver is so judged Affirmer hereby grants to each affected\nperson a royalty-free, non transferable, non sublicensable, non exclusive,\nirrevocable and unconditional license to exercise Affirmer's Copyright and\nRelated Rights in the Work (i) in all territories worldwide, (ii) for the\nmaximum duration provided by applicable law or treaty (including future\ntime extensions), (iii) in any current or future medium and for any number\nof copies, and (iv) for any purpose whatsoever, including without\nlimitation commercial, advertising or promotional purposes (the\n\"License\"). The License shall be deemed effective as of the date CC0 was\napplied by Affirmer to the Work. Should any part of the License for any\nreason be judged legally invalid or ineffective under applicable law, such\npartial invalidity or ineffectiveness shall not invalidate the remainder\nof the License, and in such case Affirmer hereby affirms that he or she\nwill not (i) exercise any of his or her remaining Copyright and Related\nRights in the Work or (ii) assert any associated claims and causes of\naction with respect to the Work, in either case contrary to Affirmer's\nexpress Statement of Purpose.\n\n4. Limitations and Disclaimers.\n\n a. No trademark or patent rights held by Affirmer are waived, abandoned,\n    surrendered, licensed or otherwise affected by this document.\n b. Affirmer offers the Work as-is and makes no representations or\n    warranties of any kind concerning the Work, express, implied,\n    statutory or otherwise, including without limitation warranties of\n    title, merchantability, fitness for a particular purpose, non\n    infringement, or the absence of latent or other defects, accuracy, or\n    the present or absence of errors, whether or not discoverable, all to\n    the greatest extent permissible under applicable law.\n c. Affirmer disclaims responsibility for clearing rights of other persons\n    that may apply to the Work or any use thereof, including without\n    limitation any person's Copyright and Related Rights in the Work.\n    Further, Affirmer disclaims responsibility for obtaining any necessary\n    consents, permissions or other rights required for any use of the\n    Work.\n d. Affirmer understands and acknowledges that Creative Commons is not a\n    party to this document and has no duty or obligation with respect to\n    this CC0 or use of the Work.\n"
-      },
-      "file": "harpsichords-fm-1.0.0.kfpack",
-      "bytes": 74575360,
-      "sha256": "459c2773bbaa5db6a0bfeeb2a44016bcb20b4eaaac1ccdc189515319bea65eac",
-      "installedBytes": 376140662,
-      "instruments": [
-        {
-          "id": "harpsichord-flemish",
-          "name": "Harpsichord (Flemish)",
-          "group": "Keys",
-          "about": "A Flemish-style harpsichord, 8-foot stop, with release samples.",
-          "legacy": [
-            "harpsichord"
-          ]
-        },
-        {
-          "id": "harpsichord-flemish-4",
-          "name": "Harpsichord (Flemish, 4 foot)",
-          "group": "Keys",
-          "about": "The same Flemish harpsichord's bright 4-foot stop.",
-          "legacy": []
-        },
-        {
-          "id": "harpsichord-french",
-          "name": "Harpsichord (French)",
-          "group": "Keys",
-          "about": "A French-style harpsichord with release samples.",
-          "legacy": []
-        },
-        {
-          "id": "harpsichord-italian",
-          "name": "Harpsichord (Italian)",
-          "group": "Keys",
-          "about": "An Italian-style harpsichord, one stop, with release samples.",
-          "legacy": []
-        },
-        {
-          "id": "harpsichord-english",
-          "name": "Harpsichord (English)",
-          "group": "Keys",
-          "about": "A Zuckermann kit harpsichord with release samples.",
-          "legacy": []
-        },
-        {
-          "id": "harpsichord-lute",
-          "name": "Harpsichord (lute stop)",
-          "group": "Keys",
-          "about": "The English harpsichord's muted lute stop.",
-          "legacy": []
-        },
-        {
-          "id": "fm-piano",
-          "name": "FM Piano",
-          "group": "Keys",
-          "about": "The classic 1980s FM electric piano, sampled from a real Yamaha TX81Z with three velocity layers.",
-          "legacy": [
-            "fm"
-          ]
-        },
-        {
-          "id": "fm-piano-bright",
-          "name": "FM Piano (bright)",
-          "group": "Keys",
-          "about": "The TX81Z's 'Piano 1' patch: a brighter FM piano.",
-          "legacy": []
-        },
-        {
-          "id": "clavisynth",
-          "name": "Clavisynth",
-          "group": "Keys",
-          "about": "A clavinet-like FM patch from the TX81Z.",
-          "legacy": []
-        }
-      ]
-    },
     {
       "id": "concert-grand-full",
       "name": "Concert Grand (Full)",
@@ -250,6 +164,268 @@
           "name": "Studio Upright",
           "group": "Pianos",
           "about": "A Yamaha upright (VSCO's 'Upright No. 1', remastered): three velocity layers with round robins and releases, sampled in fifths.",
+          "legacy": []
+        }
+      ]
+    },
+    {
+      "id": "harpsichords-fm",
+      "name": "Harpsichords and FM Pianos",
+      "version": "1.0.0",
+      "group": "Keys",
+      "about": "Six harpsichords (Flemish 8 and 4 foot, French, Italian, English and its lute stop) and three FM electric pianos sampled from a real Yamaha TX81Z.",
+      "licence": {
+        "name": "CC0 1.0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "credit": "Harpsichords and TX81Z patches from the Versilian Community Sample Library (Versilian Studios, Sam Gossner)",
+        "text": "Creative Commons Legal Code\n\nCC0 1.0 Universal\n\n    CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE\n    LEGAL SERVICES. DISTRIBUTION OF THIS DOCUMENT DOES NOT CREATE AN\n    ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS\n    INFORMATION ON AN \"AS-IS\" BASIS. CREATIVE COMMONS MAKES NO WARRANTIES\n    REGARDING THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS\n    PROVIDED HEREUNDER, AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM\n    THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED\n    HEREUNDER.\n\nStatement of Purpose\n\nThe laws of most jurisdictions throughout the world automatically confer\nexclusive Copyright and Related Rights (defined below) upon the creator\nand subsequent owner(s) (each and all, an \"owner\") of an original work of\nauthorship and/or a database (each, a \"Work\").\n\nCertain owners wish to permanently relinquish those rights to a Work for\nthe purpose of contributing to a commons of creative, cultural and\nscientific works (\"Commons\") that the public can reliably and without fear\nof later claims of infringement build upon, modify, incorporate in other\nworks, reuse and redistribute as freely as possible in any form whatsoever\nand for any purposes, including without limitation commercial purposes.\nThese owners may contribute to the Commons to promote the ideal of a free\nculture and the further production of creative, cultural and scientific\nworks, or to gain reputation or greater distribution for their Work in\npart through the use and efforts of others.\n\nFor these and/or other purposes and motivations, and without any\nexpectation of additional consideration or compensation, the person\nassociating CC0 with a Work (the \"Affirmer\"), to the extent that he or she\nis an owner of Copyright and Related Rights in the Work, voluntarily\nelects to apply CC0 to the Work and publicly distribute the Work under its\nterms, with knowledge of his or her Copyright and Related Rights in the\nWork and the meaning and intended legal effect of CC0 on those rights.\n\n1. Copyright and Related Rights. A Work made available under CC0 may be\nprotected by copyright and related or neighboring rights (\"Copyright and\nRelated Rights\"). Copyright and Related Rights include, but are not\nlimited to, the following:\n\n  i. the right to reproduce, adapt, distribute, perform, display,\n     communicate, and translate a Work;\n ii. moral rights retained by the original author(s) and/or performer(s);\niii. publicity and privacy rights pertaining to a person's image or\n     likeness depicted in a Work;\n iv. rights protecting against unfair competition in regards to a Work,\n     subject to the limitations in paragraph 4(a), below;\n  v. rights protecting the extraction, dissemination, use and reuse of data\n     in a Work;\n vi. database rights (such as those arising under Directive 96/9/EC of the\n     European Parliament and of the Council of 11 March 1996 on the legal\n     protection of databases, and under any national implementation\n     thereof, including any amended or successor version of such\n     directive); and\nvii. other similar, equivalent or corresponding rights throughout the\n     world based on applicable law or treaty, and any national\n     implementations thereof.\n\n2. Waiver. To the greatest extent permitted by, but not in contravention\nof, applicable law, Affirmer hereby overtly, fully, permanently,\nirrevocably and unconditionally waives, abandons, and surrenders all of\nAffirmer's Copyright and Related Rights and associated claims and causes\nof action, whether now known or unknown (including existing as well as\nfuture claims and causes of action), in the Work (i) in all territories\nworldwide, (ii) for the maximum duration provided by applicable law or\ntreaty (including future time extensions), (iii) in any current or future\nmedium and for any number of copies, and (iv) for any purpose whatsoever,\nincluding without limitation commercial, advertising or promotional\npurposes (the \"Waiver\"). Affirmer makes the Waiver for the benefit of each\nmember of the public at large and to the detriment of Affirmer's heirs and\nsuccessors, fully intending that such Waiver shall not be subject to\nrevocation, rescission, cancellation, termination, or any other legal or\nequitable action to disrupt the quiet enjoyment of the Work by the public\nas contemplated by Affirmer's express Statement of Purpose.\n\n3. Public License Fallback. Should any part of the Waiver for any reason\nbe judged legally invalid or ineffective under applicable law, then the\nWaiver shall be preserved to the maximum extent permitted taking into\naccount Affirmer's express Statement of Purpose. In addition, to the\nextent the Waiver is so judged Affirmer hereby grants to each affected\nperson a royalty-free, non transferable, non sublicensable, non exclusive,\nirrevocable and unconditional license to exercise Affirmer's Copyright and\nRelated Rights in the Work (i) in all territories worldwide, (ii) for the\nmaximum duration provided by applicable law or treaty (including future\ntime extensions), (iii) in any current or future medium and for any number\nof copies, and (iv) for any purpose whatsoever, including without\nlimitation commercial, advertising or promotional purposes (the\n\"License\"). The License shall be deemed effective as of the date CC0 was\napplied by Affirmer to the Work. Should any part of the License for any\nreason be judged legally invalid or ineffective under applicable law, such\npartial invalidity or ineffectiveness shall not invalidate the remainder\nof the License, and in such case Affirmer hereby affirms that he or she\nwill not (i) exercise any of his or her remaining Copyright and Related\nRights in the Work or (ii) assert any associated claims and causes of\naction with respect to the Work, in either case contrary to Affirmer's\nexpress Statement of Purpose.\n\n4. Limitations and Disclaimers.\n\n a. No trademark or patent rights held by Affirmer are waived, abandoned,\n    surrendered, licensed or otherwise affected by this document.\n b. Affirmer offers the Work as-is and makes no representations or\n    warranties of any kind concerning the Work, express, implied,\n    statutory or otherwise, including without limitation warranties of\n    title, merchantability, fitness for a particular purpose, non\n    infringement, or the absence of latent or other defects, accuracy, or\n    the present or absence of errors, whether or not discoverable, all to\n    the greatest extent permissible under applicable law.\n c. Affirmer disclaims responsibility for clearing rights of other persons\n    that may apply to the Work or any use thereof, including without\n    limitation any person's Copyright and Related Rights in the Work.\n    Further, Affirmer disclaims responsibility for obtaining any necessary\n    consents, permissions or other rights required for any use of the\n    Work.\n d. Affirmer understands and acknowledges that Creative Commons is not a\n    party to this document and has no duty or obligation with respect to\n    this CC0 or use of the Work.\n"
+      },
+      "file": "harpsichords-fm-1.0.0.kfpack",
+      "bytes": 74575360,
+      "sha256": "459c2773bbaa5db6a0bfeeb2a44016bcb20b4eaaac1ccdc189515319bea65eac",
+      "installedBytes": 376140662,
+      "instruments": [
+        {
+          "id": "harpsichord-flemish",
+          "name": "Harpsichord (Flemish)",
+          "group": "Keys",
+          "about": "A Flemish-style harpsichord, 8-foot stop, with release samples.",
+          "legacy": [
+            "harpsichord"
+          ]
+        },
+        {
+          "id": "harpsichord-flemish-4",
+          "name": "Harpsichord (Flemish, 4 foot)",
+          "group": "Keys",
+          "about": "The same Flemish harpsichord's bright 4-foot stop.",
+          "legacy": []
+        },
+        {
+          "id": "harpsichord-french",
+          "name": "Harpsichord (French)",
+          "group": "Keys",
+          "about": "A French-style harpsichord with release samples.",
+          "legacy": []
+        },
+        {
+          "id": "harpsichord-italian",
+          "name": "Harpsichord (Italian)",
+          "group": "Keys",
+          "about": "An Italian-style harpsichord, one stop, with release samples.",
+          "legacy": []
+        },
+        {
+          "id": "harpsichord-english",
+          "name": "Harpsichord (English)",
+          "group": "Keys",
+          "about": "A Zuckermann kit harpsichord with release samples.",
+          "legacy": []
+        },
+        {
+          "id": "harpsichord-lute",
+          "name": "Harpsichord (lute stop)",
+          "group": "Keys",
+          "about": "The English harpsichord's muted lute stop.",
+          "legacy": []
+        },
+        {
+          "id": "fm-piano",
+          "name": "FM Piano",
+          "group": "Keys",
+          "about": "The classic 1980s FM electric piano, sampled from a real Yamaha TX81Z with three velocity layers.",
+          "legacy": [
+            "fm"
+          ]
+        },
+        {
+          "id": "fm-piano-bright",
+          "name": "FM Piano (bright)",
+          "group": "Keys",
+          "about": "The TX81Z's 'Piano 1' patch: a brighter FM piano.",
+          "legacy": []
+        },
+        {
+          "id": "clavisynth",
+          "name": "Clavisynth",
+          "group": "Keys",
+          "about": "A clavinet-like FM patch from the TX81Z.",
+          "legacy": []
+        }
+      ]
+    },
+    {
+      "id": "acoustic-guitars",
+      "name": "Acoustic Guitars",
+      "version": "1.0.0",
+      "group": "Guitars",
+      "about": "A nylon-string classical guitar and an archtop jazz guitar with its pickup and a microphone. For a steel-string acoustic, use the modelled Steel-string Acoustic.",
+      "licence": {
+        "name": "CC0 1.0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "credit": "Spanish classical guitar from FreePats (CC0); Shinyguitar from Karoryfer Samples (CC0)",
+        "text": "Spanish classical guitar: FreePats, CC0\nSpanish classical guitar\n------------------------\n\nVersion 2019-06-18\n\nSound samples recorded from a Spanish classical guitar on 2008. Created by\nroberto@zenvoid.org for the FreePats project.\n\nRecorded with an AKG Perception 120 microphone and processed using free\nsoftware tools. The recording conditions were far from ideal, so several\nfilters have been applied to reduce noise and improve sound.\n\nThis sound bank, in several formats and qualities, is available on the\nFreePats project web pages:\nhttp://freepats.zenvoid.org/Guitar/acoustic-guitar.html\n\n\nPublished under the terms of Creative Commons CC0 public domain dedication:\nhttps://creativecommons.org/publicdomain/zero/1.0/\n\n\nShinyguitar: Karoryfer Samples, CC0\nCreative Commons Legal Code\n\nCC0 1.0 Universal\n\n    CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE\n    LEGAL SERVICES. DISTRIBUTION OF THIS DOCUMENT DOES NOT CREATE AN\n    ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS\n    INFORMATION ON AN \"AS-IS\" BASIS. CREATIVE COMMONS MAKES NO WARRANTIES\n    REGARDING THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS\n    PROVIDED HEREUNDER, AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM\n    THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED\n    HEREUNDER.\n\nStatement of Purpose\n\nThe laws of most jurisdictions throughout the world automatically confer\nexclusive Copyright and Related Rights (defined below) upon the creator\nand subsequent owner(s) (each and all, an \"owner\") of an original work of\nauthorship and/or a database (each, a \"Work\").\n\nCertain owners wish to permanently relinquish those rights to a Work for\nthe purpose of contributing to a commons of creative, cultural and\nscientific works (\"Commons\") that the public can reliably and without fear\nof later claims of infringement build upon, modify, incorporate in other\nworks, reuse and redistribute as freely as possible in any form whatsoever\nand for any purposes, including without limitation commercial purposes.\nThese owners may contribute to the Commons to promote the ideal of a free\nculture and the further production of creative, cultural and scientific\nworks, or to gain reputation or greater distribution for their Work in\npart through the use and efforts of others.\n\nFor these and/or other purposes and motivations, and without any\nexpectation of additional consideration or compensation, the person\nassociating CC0 with a Work (the \"Affirmer\"), to the extent that he or she\nis an owner of Copyright and Related Rights in the Work, voluntarily\nelects to apply CC0 to the Work and publicly distribute the Work under its\nterms, with knowledge of his or her Copyright and Related Rights in the\nWork and the meaning and intended legal effect of CC0 on those rights.\n\n1. Copyright and Related Rights. A Work made available under CC0 may be\nprotected by copyright and related or neighboring rights (\"Copyright and\nRelated Rights\"). Copyright and Related Rights include, but are not\nlimited to, the following:\n\n  i. the right to reproduce, adapt, distribute, perform, display,\n     communicate, and translate a Work;\n ii. moral rights retained by the original author(s) and/or performer(s);\niii. publicity and privacy rights pertaining to a person's image or\n     likeness depicted in a Work;\n iv. rights protecting against unfair competition in regards to a Work,\n     subject to the limitations in paragraph 4(a), below;\n  v. rights protecting the extraction, dissemination, use and reuse of data\n     in a Work;\n vi. database rights (such as those arising under Directive 96/9/EC of the\n     European Parliament and of the Council of 11 March 1996 on the legal\n     protection of databases, and under any national implementation\n     thereof, including any amended or successor version of such\n     directive); and\nvii. other similar, equivalent or corresponding rights throughout the\n     world based on applicable law or treaty, and any national\n     implementations thereof.\n\n2. Waiver. To the greatest extent permitted by, but not in contravention\nof, applicable law, Affirmer hereby overtly, fully, permanently,\nirrevocably and unconditionally waives, abandons, and surrenders all of\nAffirmer's Copyright and Related Rights and associated claims and causes\nof action, whether now known or unknown (including existing as well as\nfuture claims and causes of action), in the Work (i) in all territories\nworldwide, (ii) for the maximum duration provided by applicable law or\ntreaty (including future time extensions), (iii) in any current or future\nmedium and for any number of copies, and (iv) for any purpose whatsoever,\nincluding without limitation commercial, advertising or promotional\npurposes (the \"Waiver\"). Affirmer makes the Waiver for the benefit of each\nmember of the public at large and to the detriment of Affirmer's heirs and\nsuccessors, fully intending that such Waiver shall not be subject to\nrevocation, rescission, cancellation, termination, or any other legal or\nequitable action to disrupt the quiet enjoyment of the Work by the public\nas contemplated by Affirmer's express Statement of Purpose.\n\n3. Public License Fallback. Should any part of the Waiver for any reason\nbe judged legally invalid or ineffective under applicable law, then the\nWaiver shall be preserved to the maximum extent permitted taking into\naccount Affirmer's express Statement of Purpose. In addition, to the\nextent the Waiver is so judged Affirmer hereby grants to each affected\nperson a royalty-free, non transferable, non sublicensable, non exclusive,\nirrevocable and unconditional license to exercise Affirmer's Copyright and\nRelated Rights in the Work (i) in all territories worldwide, (ii) for the\nmaximum duration provided by applicable law or treaty (including future\ntime extensions), (iii) in any current or future medium and for any number\nof copies, and (iv) for any purpose whatsoever, including without\nlimitation commercial, advertising or promotional purposes (the\n\"License\"). The License shall be deemed effective as of the date CC0 was\napplied by Affirmer to the Work. Should any part of the License for any\nreason be judged legally invalid or ineffective under applicable law, such\npartial invalidity or ineffectiveness shall not invalidate the remainder\nof the License, and in such case Affirmer hereby affirms that he or she\nwill not (i) exercise any of his or her remaining Copyright and Related\nRights in the Work or (ii) assert any associated claims and causes of\naction with respect to the Work, in either case contrary to Affirmer's\nexpress Statement of Purpose.\n\n4. Limitations and Disclaimers.\n\n a. No trademark or patent rights held by Affirmer are waived, abandoned,\n    surrendered, licensed or otherwise affected by this document.\n b. Affirmer offers the Work as-is and makes no representations or\n    warranties of any kind concerning the Work, express, implied,\n    statutory or otherwise, including without limitation warranties of\n    title, merchantability, fitness for a particular purpose, non\n    infringement, or the absence of latent or other defects, accuracy, or\n    the present or absence of errors, whether or not discoverable, all to\n    the greatest extent permissible under applicable law.\n c. Affirmer disclaims responsibility for clearing rights of other persons\n    that may apply to the Work or any use thereof, including without\n    limitation any person's Copyright and Related Rights in the Work.\n    Further, Affirmer disclaims responsibility for obtaining any necessary\n    consents, permissions or other rights required for any use of the\n    Work.\n d. Affirmer understands and acknowledges that Creative Commons is not a\n    party to this document and has no duty or obligation with respect to\n    this CC0 or use of the Work.\n"
+      },
+      "file": "acoustic-guitars-1.0.0.kfpack",
+      "bytes": 63988736,
+      "sha256": "ae52e9b2adcc24e7b5e8e4d5a0a728c6babcb127e7bc4fb304e3aa5ec4e088cd",
+      "installedBytes": 325956236,
+      "instruments": [
+        {
+          "id": "classical-guitar",
+          "name": "Classical Guitar",
+          "group": "Guitars",
+          "about": "A Spanish classical (nylon-string) guitar, one recording per note, cleaned of noise by its author (FreePats, 2008). For more life (velocity, pluck position, strumming) try the modelled Nylon-string Classical.",
+          "legacy": [
+            "guitar"
+          ]
+        },
+        {
+          "id": "archtop",
+          "name": "Archtop Jazz Guitar",
+          "group": "Guitars",
+          "about": "An archtop guitar recorded through its pickup and a microphone at once: the Mic mix knob goes from the pickup's round electric tone to the wooden acoustic sound. Velocity layers, round robins, release noises (Karoryfer Samples, played by D. Smolken).",
+          "legacy": []
+        }
+      ]
+    },
+    {
+      "id": "electric-guitars",
+      "name": "Electric Guitars",
+      "version": "1.0.0",
+      "group": "Guitars",
+      "about": "Six electric guitars: a Fender clean and jazz (recorded through an amp), a Gretsch and a Hofner hollow body with articulations, and an Epiphone with real strummed chords. The direct-recorded ones come with an Amp on the track.",
+      "licence": {
+        "name": "CC0 1.0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "credit": "FSBS electric guitars from FreePats (CC0); Black And Green Guitars (recorded by Brian Wood) and Emilyguitar (D. Smolken) from Karoryfer Samples (CC0)",
+        "text": "FreePats FSBS electric guitars: CC0\nElectric Guitar FSBS (clean)\n----------------------------\n\nVersion 2026-08-07\n\nSound bank made by direct sampling a Fender electric guitar (basic model) using an audio interface with dedicated instrument inputs.\n\nSamples had been processed through an amplifier and effects rack to create a clean guitar sound. Direct (unprocessed) sounds and other variants are also available. Please visit FreePats web pages for updates and more content:\nhttp://freepats.zenvoid.org/\n\n\nPublished under the terms of Creative Commons CC0 public domain dedication:\nhttps://creativecommons.org/publicdomain/zero/1.0/\n\n\nKaroryfer Samples (Black And Green Guitars, Emilyguitar): CC0\nCreative Commons Legal Code\r\n\r\nCC0 1.0 Universal\r\n\r\n    CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE\r\n    LEGAL SERVICES. DISTRIBUTION OF THIS DOCUMENT DOES NOT CREATE AN\r\n    ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS\r\n    INFORMATION ON AN \"AS-IS\" BASIS. CREATIVE COMMONS MAKES NO WARRANTIES\r\n    REGARDING THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS\r\n    PROVIDED HEREUNDER, AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM\r\n    THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED\r\n    HEREUNDER.\r\n\r\nStatement of Purpose\r\n\r\nThe laws of most jurisdictions throughout the world automatically confer\r\nexclusive Copyright and Related Rights (defined below) upon the creator\r\nand subsequent owner(s) (each and all, an \"owner\") of an original work of\r\nauthorship and/or a database (each, a \"Work\").\r\n\r\nCertain owners wish to permanently relinquish those rights to a Work for\r\nthe purpose of contributing to a commons of creative, cultural and\r\nscientific works (\"Commons\") that the public can reliably and without fear\r\nof later claims of infringement build upon, modify, incorporate in other\r\nworks, reuse and redistribute as freely as possible in any form whatsoever\r\nand for any purposes, including without limitation commercial purposes.\r\nThese owners may contribute to the Commons to promote the ideal of a free\r\nculture and the further production of creative, cultural and scientific\r\nworks, or to gain reputation or greater distribution for their Work in\r\npart through the use and efforts of others.\r\n\r\nFor these and/or other purposes and motivations, and without any\r\nexpectation of additional consideration or compensation, the person\r\nassociating CC0 with a Work (the \"Affirmer\"), to the extent that he or she\r\nis an owner of Copyright and Related Rights in the Work, voluntarily\r\nelects to apply CC0 to the Work and publicly distribute the Work under its\r\nterms, with knowledge of his or her Copyright and Related Rights in the\r\nWork and the meaning and intended legal effect of CC0 on those rights.\r\n\r\n1. Copyright and Related Rights. A Work made available under CC0 may be\r\nprotected by copyright and related or neighboring rights (\"Copyright and\r\nRelated Rights\"). Copyright and Related Rights include, but are not\r\nlimited to, the following:\r\n\r\n  i. the right to reproduce, adapt, distribute, perform, display,\r\n     communicate, and translate a Work;\r\n ii. moral rights retained by the original author(s) and/or performer(s);\r\niii. publicity and privacy rights pertaining to a person's image or\r\n     likeness depicted in a Work;\r\n iv. rights protecting against unfair competition in regards to a Work,\r\n     subject to the limitations in paragraph 4(a), below;\r\n  v. rights protecting the extraction, dissemination, use and reuse of data\r\n     in a Work;\r\n vi. database rights (such as those arising under Directive 96/9/EC of the\r\n     European Parliament and of the Council of 11 March 1996 on the legal\r\n     protection of databases, and under any national implementation\r\n     thereof, including any amended or successor version of such\r\n     directive); and\r\nvii. other similar, equivalent or corresponding rights throughout the\r\n     world based on applicable law or treaty, and any national\r\n     implementations thereof.\r\n\r\n2. Waiver. To the greatest extent permitted by, but not in contravention\r\nof, applicable law, Affirmer hereby overtly, fully, permanently,\r\nirrevocably and unconditionally waives, abandons, and surrenders all of\r\nAffirmer's Copyright and Related Rights and associated claims and causes\r\nof action, whether now known or unknown (including existing as well as\r\nfuture claims and causes of action), in the Work (i) in all territories\r\nworldwide, (ii) for the maximum duration provided by applicable law or\r\ntreaty (including future time extensions), (iii) in any current or future\r\nmedium and for any number of copies, and (iv) for any purpose whatsoever,\r\nincluding without limitation commercial, advertising or promotional\r\npurposes (the \"Waiver\"). Affirmer makes the Waiver for the benefit of each\r\nmember of the public at large and to the detriment of Affirmer's heirs and\r\nsuccessors, fully intending that such Waiver shall not be subject to\r\nrevocation, rescission, cancellation, termination, or any other legal or\r\nequitable action to disrupt the quiet enjoyment of the Work by the public\r\nas contemplated by Affirmer's express Statement of Purpose.\r\n\r\n3. Public License Fallback. Should any part of the Waiver for any reason\r\nbe judged legally invalid or ineffective under applicable law, then the\r\nWaiver shall be preserved to the maximum extent permitted taking into\r\naccount Affirmer's express Statement of Purpose. In addition, to the\r\nextent the Waiver is so judged Affirmer hereby grants to each affected\r\nperson a royalty-free, non transferable, non sublicensable, non exclusive,\r\nirrevocable and unconditional license to exercise Affirmer's Copyright and\r\nRelated Rights in the Work (i) in all territories worldwide, (ii) for the\r\nmaximum duration provided by applicable law or treaty (including future\r\ntime extensions), (iii) in any current or future medium and for any number\r\nof copies, and (iv) for any purpose whatsoever, including without\r\nlimitation commercial, advertising or promotional purposes (the\r\n\"License\"). The License shall be deemed effective as of the date CC0 was\r\napplied by Affirmer to the Work. Should any part of the License for any\r\nreason be judged legally invalid or ineffective under applicable law, such\r\npartial invalidity or ineffectiveness shall not invalidate the remainder\r\nof the License, and in such case Affirmer hereby affirms that he or she\r\nwill not (i) exercise any of his or her remaining Copyright and Related\r\nRights in the Work or (ii) assert any associated claims and causes of\r\naction with respect to the Work, in either case contrary to Affirmer's\r\nexpress Statement of Purpose.\r\n\r\n4. Limitations and Disclaimers.\r\n\r\n a. No trademark or patent rights held by Affirmer are waived, abandoned,\r\n    surrendered, licensed or otherwise affected by this document.\r\n b. Affirmer offers the Work as-is and makes no representations or\r\n    warranties of any kind concerning the Work, express, implied,\r\n    statutory or otherwise, including without limitation warranties of\r\n    title, merchantability, fitness for a particular purpose, non\r\n    infringement, or the absence of latent or other defects, accuracy, or\r\n    the present or absence of errors, whether or not discoverable, all to\r\n    the greatest extent permissible under applicable law.\r\n c. Affirmer disclaims responsibility for clearing rights of other persons\r\n    that may apply to the Work or any use thereof, including without\r\n    limitation any person's Copyright and Related Rights in the Work.\r\n    Further, Affirmer disclaims responsibility for obtaining any necessary\r\n    consents, permissions or other rights required for any use of the\r\n    Work.\r\n d. Affirmer understands and acknowledges that Creative Commons is not a\r\n    party to this document and has no duty or obligation with respect to\r\n    this CC0 or use of the Work.\n"
+      },
+      "file": "electric-guitars-1.0.0.kfpack",
+      "bytes": 239936000,
+      "sha256": "1627241a32d7489cb6cbd64cf5dbb999d753f8986e3bc9a3819f02e8b3cf4935",
+      "installedBytes": 1274909082,
+      "instruments": [
+        {
+          "id": "electric-clean",
+          "name": "Clean Electric",
+          "group": "Guitars",
+          "about": "A Fender electric played with a pick on the bridge pickup and recorded through an amp set clean, several round robins per note (FreePats FSBS).",
+          "legacy": []
+        },
+        {
+          "id": "electric-jazz",
+          "name": "Jazz Electric",
+          "group": "Guitars",
+          "about": "The same Fender through a warm, darker jazz amp setting (FreePats FSBS).",
+          "legacy": []
+        },
+        {
+          "id": "hollowbody-green",
+          "name": "Hollow Body (Gretsch)",
+          "group": "Guitars",
+          "about": "A green Gretsch Anniversary hollow body, recorded direct: twang, staccato and hammer-on articulations on key switches, several velocity layers and round robins, release noises (Karoryfer Samples, recorded by Brian Wood).",
+          "legacy": []
+        },
+        {
+          "id": "hollowbody-black",
+          "name": "Club Guitar (Hofner)",
+          "group": "Guitars",
+          "about": "A black Hofner Club, recorded direct: twang, staccato and behind-the-bridge articulations on key switches (Karoryfer Samples, recorded by Brian Wood).",
+          "legacy": []
+        },
+        {
+          "id": "electric-emily",
+          "name": "Epiphone Electric",
+          "group": "Guitars",
+          "about": "An Epiphone electric with flatwound strings, both pickups, recorded direct: four velocity layers, three round robins, string-release and fret noises (keys above the top note) (Karoryfer Samples, played by D. Smolken).",
+          "legacy": []
+        },
+        {
+          "id": "electric-emily-chords",
+          "name": "Epiphone Chords",
+          "group": "Guitars",
+          "about": "Real chords on the Epiphone, each key a chord on that root: power, minor and major barre chords, chosen by key switches (Karoryfer Samples).",
+          "legacy": []
+        }
+      ]
+    },
+    {
+      "id": "bass-guitars",
+      "name": "Bass Guitars",
+      "version": "1.0.0",
+      "group": "Basses",
+      "about": "Four electric basses recorded direct, each with an Amp on the track: a Jazz Bass, a Killer KB, and the Black and Blue basses (the black one with ghost notes, staccato and behind-the-bridge on key switches).",
+      "licence": {
+        "name": "CC0 1.0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "credit": "Growlybass, Fashionbass and Black And Blue Basses from Karoryfer Samples (CC0)",
+        "text": "Creative Commons Legal Code\n\nCC0 1.0 Universal\n\n    CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE\n    LEGAL SERVICES. DISTRIBUTION OF THIS DOCUMENT DOES NOT CREATE AN\n    ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS\n    INFORMATION ON AN \"AS-IS\" BASIS. CREATIVE COMMONS MAKES NO WARRANTIES\n    REGARDING THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS\n    PROVIDED HEREUNDER, AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM\n    THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED\n    HEREUNDER.\n\nStatement of Purpose\n\nThe laws of most jurisdictions throughout the world automatically confer\nexclusive Copyright and Related Rights (defined below) upon the creator\nand subsequent owner(s) (each and all, an \"owner\") of an original work of\nauthorship and/or a database (each, a \"Work\").\n\nCertain owners wish to permanently relinquish those rights to a Work for\nthe purpose of contributing to a commons of creative, cultural and\nscientific works (\"Commons\") that the public can reliably and without fear\nof later claims of infringement build upon, modify, incorporate in other\nworks, reuse and redistribute as freely as possible in any form whatsoever\nand for any purposes, including without limitation commercial purposes.\nThese owners may contribute to the Commons to promote the ideal of a free\nculture and the further production of creative, cultural and scientific\nworks, or to gain reputation or greater distribution for their Work in\npart through the use and efforts of others.\n\nFor these and/or other purposes and motivations, and without any\nexpectation of additional consideration or compensation, the person\nassociating CC0 with a Work (the \"Affirmer\"), to the extent that he or she\nis an owner of Copyright and Related Rights in the Work, voluntarily\nelects to apply CC0 to the Work and publicly distribute the Work under its\nterms, with knowledge of his or her Copyright and Related Rights in the\nWork and the meaning and intended legal effect of CC0 on those rights.\n\n1. Copyright and Related Rights. A Work made available under CC0 may be\nprotected by copyright and related or neighboring rights (\"Copyright and\nRelated Rights\"). Copyright and Related Rights include, but are not\nlimited to, the following:\n\n  i. the right to reproduce, adapt, distribute, perform, display,\n     communicate, and translate a Work;\n ii. moral rights retained by the original author(s) and/or performer(s);\niii. publicity and privacy rights pertaining to a person's image or\n     likeness depicted in a Work;\n iv. rights protecting against unfair competition in regards to a Work,\n     subject to the limitations in paragraph 4(a), below;\n  v. rights protecting the extraction, dissemination, use and reuse of data\n     in a Work;\n vi. database rights (such as those arising under Directive 96/9/EC of the\n     European Parliament and of the Council of 11 March 1996 on the legal\n     protection of databases, and under any national implementation\n     thereof, including any amended or successor version of such\n     directive); and\nvii. other similar, equivalent or corresponding rights throughout the\n     world based on applicable law or treaty, and any national\n     implementations thereof.\n\n2. Waiver. To the greatest extent permitted by, but not in contravention\nof, applicable law, Affirmer hereby overtly, fully, permanently,\nirrevocably and unconditionally waives, abandons, and surrenders all of\nAffirmer's Copyright and Related Rights and associated claims and causes\nof action, whether now known or unknown (including existing as well as\nfuture claims and causes of action), in the Work (i) in all territories\nworldwide, (ii) for the maximum duration provided by applicable law or\ntreaty (including future time extensions), (iii) in any current or future\nmedium and for any number of copies, and (iv) for any purpose whatsoever,\nincluding without limitation commercial, advertising or promotional\npurposes (the \"Waiver\"). Affirmer makes the Waiver for the benefit of each\nmember of the public at large and to the detriment of Affirmer's heirs and\nsuccessors, fully intending that such Waiver shall not be subject to\nrevocation, rescission, cancellation, termination, or any other legal or\nequitable action to disrupt the quiet enjoyment of the Work by the public\nas contemplated by Affirmer's express Statement of Purpose.\n\n3. Public License Fallback. Should any part of the Waiver for any reason\nbe judged legally invalid or ineffective under applicable law, then the\nWaiver shall be preserved to the maximum extent permitted taking into\naccount Affirmer's express Statement of Purpose. In addition, to the\nextent the Waiver is so judged Affirmer hereby grants to each affected\nperson a royalty-free, non transferable, non sublicensable, non exclusive,\nirrevocable and unconditional license to exercise Affirmer's Copyright and\nRelated Rights in the Work (i) in all territories worldwide, (ii) for the\nmaximum duration provided by applicable law or treaty (including future\ntime extensions), (iii) in any current or future medium and for any number\nof copies, and (iv) for any purpose whatsoever, including without\nlimitation commercial, advertising or promotional purposes (the\n\"License\"). The License shall be deemed effective as of the date CC0 was\napplied by Affirmer to the Work. Should any part of the License for any\nreason be judged legally invalid or ineffective under applicable law, such\npartial invalidity or ineffectiveness shall not invalidate the remainder\nof the License, and in such case Affirmer hereby affirms that he or she\nwill not (i) exercise any of his or her remaining Copyright and Related\nRights in the Work or (ii) assert any associated claims and causes of\naction with respect to the Work, in either case contrary to Affirmer's\nexpress Statement of Purpose.\n\n4. Limitations and Disclaimers.\n\n a. No trademark or patent rights held by Affirmer are waived, abandoned,\n    surrendered, licensed or otherwise affected by this document.\n b. Affirmer offers the Work as-is and makes no representations or\n    warranties of any kind concerning the Work, express, implied,\n    statutory or otherwise, including without limitation warranties of\n    title, merchantability, fitness for a particular purpose, non\n    infringement, or the absence of latent or other defects, accuracy, or\n    the present or absence of errors, whether or not discoverable, all to\n    the greatest extent permissible under applicable law.\n c. Affirmer disclaims responsibility for clearing rights of other persons\n    that may apply to the Work or any use thereof, including without\n    limitation any person's Copyright and Related Rights in the Work.\n    Further, Affirmer disclaims responsibility for obtaining any necessary\n    consents, permissions or other rights required for any use of the\n    Work.\n d. Affirmer understands and acknowledges that Creative Commons is not a\n    party to this document and has no duty or obligation with respect to\n    this CC0 or use of the Work.\n"
+      },
+      "file": "bass-guitars-1.0.0.kfpack",
+      "bytes": 210664960,
+      "sha256": "431b067e0a12586064138765cd5681422ad34f18970327834e8d5f2112aadf71",
+      "installedBytes": 989901782,
+      "instruments": [
+        {
+          "id": "bass-jazz",
+          "name": "Jazz Bass",
+          "group": "Basses",
+          "about": "A Squier Jazz Bass played with the fingers, both pickups, recorded direct: four velocity layers and four round robins on sustained notes, string-release noises (Karoryfer Samples).",
+          "legacy": []
+        },
+        {
+          "id": "bass-fashion",
+          "name": "Fashion Bass",
+          "group": "Basses",
+          "about": "A Killer KB bass on the neck pickup, recorded direct with the EQ flat: five velocity layers, three round robins, releases and noises (Karoryfer Samples, played by D. Smolken).",
+          "legacy": []
+        },
+        {
+          "id": "bass-darkblack",
+          "name": "Black Bass",
+          "group": "Basses",
+          "about": "A dark black bass guitar with five articulations on key switches: plucked (four dynamics), ghost notes, staccato and behind-the-bridge (Black And Blue Basses, Karoryfer Samples).",
+          "legacy": []
+        },
+        {
+          "id": "bass-babyblue",
+          "name": "Blue Bass",
+          "group": "Basses",
+          "about": "A baby blue bass guitar with a brighter voice, two dynamics and round robins (Black And Blue Basses, Karoryfer Samples).",
+          "legacy": []
+        }
+      ]
+    },
+    {
+      "id": "double-bass",
+      "name": "Double Bass",
+      "version": "1.0.0",
+      "group": "Basses",
+      "about": "A double bass, plucked and bowed.",
+      "licence": {
+        "name": "CC0 1.0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "credit": "Meatbass from Karoryfer Samples (Drogomir Smolken; recorded by Ludwik Zamenhof) (CC0)",
+        "text": "Creative Commons Legal Code\n\nCC0 1.0 Universal\n\n    CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE\n    LEGAL SERVICES. DISTRIBUTION OF THIS DOCUMENT DOES NOT CREATE AN\n    ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS\n    INFORMATION ON AN \"AS-IS\" BASIS. CREATIVE COMMONS MAKES NO WARRANTIES\n    REGARDING THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS\n    PROVIDED HEREUNDER, AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM\n    THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED\n    HEREUNDER.\n\nStatement of Purpose\n\nThe laws of most jurisdictions throughout the world automatically confer\nexclusive Copyright and Related Rights (defined below) upon the creator\nand subsequent owner(s) (each and all, an \"owner\") of an original work of\nauthorship and/or a database (each, a \"Work\").\n\nCertain owners wish to permanently relinquish those rights to a Work for\nthe purpose of contributing to a commons of creative, cultural and\nscientific works (\"Commons\") that the public can reliably and without fear\nof later claims of infringement build upon, modify, incorporate in other\nworks, reuse and redistribute as freely as possible in any form whatsoever\nand for any purposes, including without limitation commercial purposes.\nThese owners may contribute to the Commons to promote the ideal of a free\nculture and the further production of creative, cultural and scientific\nworks, or to gain reputation or greater distribution for their Work in\npart through the use and efforts of others.\n\nFor these and/or other purposes and motivations, and without any\nexpectation of additional consideration or compensation, the person\nassociating CC0 with a Work (the \"Affirmer\"), to the extent that he or she\nis an owner of Copyright and Related Rights in the Work, voluntarily\nelects to apply CC0 to the Work and publicly distribute the Work under its\nterms, with knowledge of his or her Copyright and Related Rights in the\nWork and the meaning and intended legal effect of CC0 on those rights.\n\n1. Copyright and Related Rights. A Work made available under CC0 may be\nprotected by copyright and related or neighboring rights (\"Copyright and\nRelated Rights\"). Copyright and Related Rights include, but are not\nlimited to, the following:\n\n  i. the right to reproduce, adapt, distribute, perform, display,\n     communicate, and translate a Work;\n ii. moral rights retained by the original author(s) and/or performer(s);\niii. publicity and privacy rights pertaining to a person's image or\n     likeness depicted in a Work;\n iv. rights protecting against unfair competition in regards to a Work,\n     subject to the limitations in paragraph 4(a), below;\n  v. rights protecting the extraction, dissemination, use and reuse of data\n     in a Work;\n vi. database rights (such as those arising under Directive 96/9/EC of the\n     European Parliament and of the Council of 11 March 1996 on the legal\n     protection of databases, and under any national implementation\n     thereof, including any amended or successor version of such\n     directive); and\nvii. other similar, equivalent or corresponding rights throughout the\n     world based on applicable law or treaty, and any national\n     implementations thereof.\n\n2. Waiver. To the greatest extent permitted by, but not in contravention\nof, applicable law, Affirmer hereby overtly, fully, permanently,\nirrevocably and unconditionally waives, abandons, and surrenders all of\nAffirmer's Copyright and Related Rights and associated claims and causes\nof action, whether now known or unknown (including existing as well as\nfuture claims and causes of action), in the Work (i) in all territories\nworldwide, (ii) for the maximum duration provided by applicable law or\ntreaty (including future time extensions), (iii) in any current or future\nmedium and for any number of copies, and (iv) for any purpose whatsoever,\nincluding without limitation commercial, advertising or promotional\npurposes (the \"Waiver\"). Affirmer makes the Waiver for the benefit of each\nmember of the public at large and to the detriment of Affirmer's heirs and\nsuccessors, fully intending that such Waiver shall not be subject to\nrevocation, rescission, cancellation, termination, or any other legal or\nequitable action to disrupt the quiet enjoyment of the Work by the public\nas contemplated by Affirmer's express Statement of Purpose.\n\n3. Public License Fallback. Should any part of the Waiver for any reason\nbe judged legally invalid or ineffective under applicable law, then the\nWaiver shall be preserved to the maximum extent permitted taking into\naccount Affirmer's express Statement of Purpose. In addition, to the\nextent the Waiver is so judged Affirmer hereby grants to each affected\nperson a royalty-free, non transferable, non sublicensable, non exclusive,\nirrevocable and unconditional license to exercise Affirmer's Copyright and\nRelated Rights in the Work (i) in all territories worldwide, (ii) for the\nmaximum duration provided by applicable law or treaty (including future\ntime extensions), (iii) in any current or future medium and for any number\nof copies, and (iv) for any purpose whatsoever, including without\nlimitation commercial, advertising or promotional purposes (the\n\"License\"). The License shall be deemed effective as of the date CC0 was\napplied by Affirmer to the Work. Should any part of the License for any\nreason be judged legally invalid or ineffective under applicable law, such\npartial invalidity or ineffectiveness shall not invalidate the remainder\nof the License, and in such case Affirmer hereby affirms that he or she\nwill not (i) exercise any of his or her remaining Copyright and Related\nRights in the Work or (ii) assert any associated claims and causes of\naction with respect to the Work, in either case contrary to Affirmer's\nexpress Statement of Purpose.\n\n4. Limitations and Disclaimers.\n\n a. No trademark or patent rights held by Affirmer are waived, abandoned,\n    surrendered, licensed or otherwise affected by this document.\n b. Affirmer offers the Work as-is and makes no representations or\n    warranties of any kind concerning the Work, express, implied,\n    statutory or otherwise, including without limitation warranties of\n    title, merchantability, fitness for a particular purpose, non\n    infringement, or the absence of latent or other defects, accuracy, or\n    the present or absence of errors, whether or not discoverable, all to\n    the greatest extent permissible under applicable law.\n c. Affirmer disclaims responsibility for clearing rights of other persons\n    that may apply to the Work or any use thereof, including without\n    limitation any person's Copyright and Related Rights in the Work.\n    Further, Affirmer disclaims responsibility for obtaining any necessary\n    consents, permissions or other rights required for any use of the\n    Work.\n d. Affirmer understands and acknowledges that Creative Commons is not a\n    party to this document and has no duty or obligation with respect to\n    this CC0 or use of the Work.\n"
+      },
+      "file": "double-bass-1.0.0.kfpack",
+      "bytes": 22894080,
+      "sha256": "d9f96b9d40a3ede991a038c28feada7a374593e15e12843621df9254d4eb3bdd",
+      "installedBytes": 125841392,
+      "instruments": [
+        {
+          "id": "double-bass-pizz",
+          "name": "Double Bass (pizzicato)",
+          "group": "Basses",
+          "about": "A 1958 Otto Rubner double bass played pizzicato: four velocity layers, four round robins, finger noises (Meatbass, Karoryfer Samples, played by Drogomir Smolken).",
+          "legacy": []
+        },
+        {
+          "id": "double-bass-arco",
+          "name": "Double Bass (bowed)",
+          "group": "Basses",
+          "about": "The same double bass bowed: three velocity layers, two round robins (Meatbass, Karoryfer Samples).",
           "legacy": []
         }
       ]
